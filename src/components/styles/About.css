@@ -1,0 +1,87 @@
+.about {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(90deg, rgb(28, 27, 27) 0%, rgb(26, 23, 23) 100%);
+  color: white;
+}
+
+.page-content p {
+  padding: 4% 21% 6.5%;
+  text-align: left;
+  align-items: center;
+  font-size: 20px;
+  font-weight: 400;
+  display: inline-flex;
+  line-height: 32px;
+}
+
+.experience-socials > div {
+  justify-content: center;
+}
+
+.experience {
+  padding: 5% 17%;
+  text-align: left;
+  align-items: center;
+  font-size: 20px;
+  line-height: 32px;
+  background-color: white;
+  color: black;
+}
+
+#profile {
+  margin-right: 9%;
+  max-width: 100%;
+  max-height: 100%;
+  width: 45%;
+  height: 45%;
+  object-fit: cover;
+  top: 0;
+  left: 0;
+  transition: all 0.2s linear;
+  border-radius: 8px;
+}
+
+#profile:hover {
+  transform: scale(1.03);
+}
+
+.about h1 {
+  padding: 4.5%;
+  padding-bottom: 0;
+  font-size: 50px;
+  font-family: "PT Sans", sans-serif;
+}
+
+@media only screen and (max-width: 1300px) {
+  .page-content p {
+    padding: 6% 13% 6%;
+  }
+}
+
+@media only screen and (max-width: 1140px) {
+  .page-content p {
+    padding: 7% 10% 7% 11%;
+  }
+}
+
+@media only screen and (max-width: 960px) {
+  .page-content {
+    padding: 0;
+  }
+
+  .page-content p {
+    padding: 1.5% 18% 8%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  #profile {
+    max-width: 350px;
+    width: 84%;
+    margin-right: 0px;
+    padding: 10% 0;
+    border: 100px;
+  }
+}

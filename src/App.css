@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
+}
+
+h1{
+  font-size: 50px;
+  text-align: center;
+}
+
+.experience > p {
+  padding-top: 5%;
+  margin-bottom: -5%;
+}
+
+.experience > a {
+  text-decoration: solid white;
+}
