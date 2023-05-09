@@ -1,11 +1,10 @@
 # Personal Porfolio Website
 
-Check it out at: https://amandayu.tech/
+Check it out \
 
-Amanda Yu\
-Univeristy of Waterloo\
-Systems Design Engineering, 2025\
-Reach me at: amanda.yu@uwaterloo.ca
+XunPeng form Univeristy of Queens \
+Computer Sience\
+Reach me at: 16xp3@queensu.ca
 
 Created with ReactJS
 Deployed using Vercel
