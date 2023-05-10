@@ -8,7 +8,7 @@
 
 .landing-container{
 
-    background: url('./landing-img.jpg') center center/cover no-repeat;
+    background: url('../../../public/images/originals/landing-img.jpg') center center/cover no-repeat;
     height: 100vh;
     width: 100%;
     display: flex;

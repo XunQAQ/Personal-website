@@ -54,7 +54,7 @@ export function About() {
           <br /> <br />
           Are the baby seals cute?
           <br /> <br />
-          I took these photos in San Diego, California in 2022. Yes, I love traveling
+          I took these photos in San Diego, California in 2022. I love traveling
           and I'm always up for an adventure. In the world of technology, I believe integrated AI will be the best companion for SDEs.
           Whether we're discussing the latest and greatest tech products, exchanging workout routines, or sharing ideas on how AI to change the world,
           I always enjoy a good coffee chat. So if you want to join me on this adventure, let's connect and see where our curiosity takes us!
