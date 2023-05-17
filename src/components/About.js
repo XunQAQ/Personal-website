@@ -46,8 +46,7 @@ export function About() {
         <p >
           <img
             id="profile"
-            src="https://media.licdn.com/dms/image/D4E35AQHUVZy4RS5KkA/profile-framedphoto-shrink_200_200/0/1682519508412?e=1684897200&v=beta&t=9CzQROac4HbQ5sFxmAl0eDFeWKMa42XiQwU6rK2YR5s"
-            // src="images/pfp.png"
+            src="images/pfp.png"
             alt="Watson is Sitting at the front of Queens' library"
           />
           Hi, I'm Watson, a Computer Science student from Queens. I'm a Machine Learning Engineer and Full Stack
