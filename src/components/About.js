@@ -49,7 +49,7 @@ export function About() {
             src="images/pfp.png"
             alt="Watson is Sitting at the front of Queens' library"
           />
-          Hi, I'm Watson, a Computer Science student form Queens. I'm a Machine Learning Engineer and Full Stack
+          Hi, I'm Watson, a Computer Science student from Queens. I'm a Machine Learning Engineer and Full Stack
           Software Developer. I am currently seeking a position in 2023.
           <br /> <br />
           Are the baby seals cute?
