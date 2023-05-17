@@ -34,7 +34,7 @@ export function Navbar({header}) {
 							<Link className="nav-links" onClick={closeMobileMenu} activeClass="active" to="projects" spy={true} smooth={true} offset={-70} duration={1000}>Projects</Link>
 						</li>
 						<li className="nav-item">
-							<Link className="nav-links" onClick={closeMobileMenu} activeClass="active" to="about-card" spy={true} smooth={true} duration={1250}>Contact</Link>
+							<Link className="nav-links" onClick={closeMobileMenu} activeClass="active" to="about-card" spy={true} smooth={true} duration={1250}>Contacts</Link>
 						</li>
 					</ul>
 				</div>
