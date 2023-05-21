@@ -12,17 +12,18 @@ function Cards() {
 					<h2>Development</h2>
 					<ul className='cards__items'>
 						<CardItem
+							src='images/user_center.png'
+							text='Website for non-profit youth organization, developed and designed entirely by myself.'
+							label='User Center'
+							path='http://user.watsonpeng.com/user/login'
+						/>
+						<CardItem
 							src='images/dashbord.png'
 							text='customer metrics dashboard that can be viewed on a phone or computer, at management’s fingertips. It instantly provides both real-time information as well as cumulative statistics by week or month, as required.'
 							label='DashBoard'
 							path=''
 						/>
-						<CardItem
-							src='images/user_center.png'
-							text='Website for non-profit youth organization, developed and designed entirely by myself.'
-							label='User Center'
-							path=''
-						/>
+
 					</ul>
 					<ul className='cards__items'>
 						<CardItem
