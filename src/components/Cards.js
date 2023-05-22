@@ -13,7 +13,7 @@ function Cards() {
 					<ul className='cards__items'>
 						<CardItem
 							src='images/user_center.png'
-							text='Website for non-profit youth organization, developed and designed entirely by myself.'
+							text='This project is a full-stack management system that combines the power of React for the frontend and Java Spring Boot for the backend. Build with Nginx and Java Springboot'
 							label='User Center'
 							path='http://user.watsonpeng.com/user/login'
 						/>
