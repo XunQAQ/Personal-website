@@ -15,7 +15,7 @@ function Landing() {
         <div className="landing-container">
             <img id="background" src="images/landing-img.jpg" alt="Page cover photo, welcome to my portfolio."></img>
             <h1>Watson Peng</h1>
-            <p>Welcome to my website.</p>
+            <p>SPACE IS THE LIMIT REACH FOR THE GALAY</p>
 
             {/*Landing page button*/}
             <div className="landing-btn">

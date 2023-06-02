@@ -11,25 +11,28 @@ function Cards() {
 				<div className='cards__wrapper'>
 					<h2>Development</h2>
 					<ul className='cards__items'>
+
+						<CardItem
+							src='images/api.png'
+							text='Administrators can access and publish interfaces, statistical analysis of each interface call; users can register and open interface call privileges, can browse interfaces and online debugging'
+							label='API Management'
+							path=''
+						/>
 						<CardItem
 							src='images/user_center.png'
 							text='This project is a full-stack management system that combines the power of React for the frontend and Java Spring Boot for the backend. Build with Nginx and Java Springboot'
 							label='User Center'
 							path='http://user.watsonpeng.com/user/login'
 						/>
-						<CardItem
-							src='images/dashbord.png'
-							text='customer metrics dashboard that can be viewed on a phone or computer, at management’s fingertips. It instantly provides both real-time information as well as cumulative statistics by week or month, as required.'
-							label='DashBoard'
-							path=''
-						/>
+
+
 
 					</ul>
 					<ul className='cards__items'>
 						<CardItem
-							src='images/api.png'
-							text='Administrators can access and publish interfaces, statistical analysis of each interface call; users can register and open interface call privileges, can browse interfaces and online debugging'
-							label='API Management'
+							src='images/dashbord.png'
+							text='customer metrics dashboard that can be viewed on a phone or computer, at management’s fingertips. It instantly provides both real-time information as well as cumulative statistics by week or month, as required.'
+							label='DashBoard'
 							path=''
 						/>
 						<CardItem
@@ -40,12 +43,12 @@ function Cards() {
 						/>
 					</ul>
 					<ul className='cards__items'>
-						<CardItem
-							src='images/match.png'
-							text='This is a mobile website (with an app-like design) aimed at helping people find like-minded partners for sports'
-							label='Paterner Match'
-							path=''
-						/>
+						{/*<CardItem*/}
+						{/*	src='images/match.png'*/}
+						{/*	text='This is a mobile website (with an app-like design) aimed at helping people find like-minded partners for sports'*/}
+						{/*	label='Paterner Match'*/}
+						{/*	path=''*/}
+						{/*/>*/}
 						<CardItem
 							src='images/SearchEngines.png'
 							text='The Aggregated Search Platform Project is a one-stop search solution based on Vue 3 + Spring Boot + Elastic Stack that simplifies search for both users and enterprises.'
@@ -62,6 +65,9 @@ function Cards() {
 
 					{/*Design Category*/}
 					<h2>AI Technology</h2>
+
+
+
 					<ul className='cards__items'>
 						<CardItem
 							src='https://miro.medium.com/v2/resize:fit:996/0*CkBCEsOsyoAKQUW7'
@@ -70,12 +76,6 @@ function Cards() {
 							path='https://github.com/XunQAQ/Auto-racing'
 						/>
 
-						<VideoCard
-							src='https://youtu.be/QPLkwciQMfo'
-							text='ROS2 package that demonstrates edge detection using OpenCV and ROS2 topics'
-							label='Edge Detection'
-							path='https://www.streamsyndicate-canada.com/'
-						/>
 
 						<CardItem
 
@@ -84,6 +84,22 @@ function Cards() {
 							label='Object Detection'
 							path='https://github.com/XunQAQ/R-cnn-Object-Detection'
 						/>
+
+
+					</ul>
+
+
+					<ul className='cards__items'>
+
+
+						<VideoCard
+							src='https://youtu.be/QPLkwciQMfo'
+							text='ROS2 package that demonstrates edge detection using OpenCV and ROS2 topics'
+							label='Edge Detection'
+							path='https://www.streamsyndicate-canada.com/'
+						/>
+
+
 
 
 					</ul>
