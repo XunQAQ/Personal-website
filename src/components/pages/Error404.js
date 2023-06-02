@@ -9,7 +9,7 @@ export function Error404(){
     return(
         <div className="Error">
          <Navbar header="Error 404" />
-        <h1> Thi page does not exist. Resource not found at {location.pathname}!</h1>
+        <h1> This page does not exist. Resource not found at {location.pathname}!</h1>
         <Footer year={new Date().getFullYear()}/>
         </div>
     )
