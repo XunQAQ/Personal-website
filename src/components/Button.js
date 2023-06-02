@@ -2,7 +2,7 @@ import React from 'react'
 import { Link, animateScroll as scroll } from 'react-scroll';
 import "./styles/Button.css";
 
-const STYLES = ["btn--", "btn--outline"];
+const STYLES = ["btn--primary", "btn--outline"];
 const SIZES = [ "btn--med", "btn--large"];
 
 export const Button =({children, type, onClick, buttonStyle, buttonSize, path}) => {
