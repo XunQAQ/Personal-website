@@ -59,7 +59,7 @@ function Cards() {
 							src='images/website.png'
 							text='My personal portfolio website, created using React, deployed with Vercel.'
 							label='Personal Website'
-							path=''
+							path='https://github.com/XunQAQ/Personal-website'
 						/>
 					</ul>
 
