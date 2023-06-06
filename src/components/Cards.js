@@ -16,7 +16,7 @@ function Cards() {
 							src='images/api.png'
 							text='Administrators can access and publish interfaces, statistical analysis of each interface call; users can register and open interface call privileges, can browse interfaces and online debugging'
 							label='API Management'
-							path=''
+							path='https://github.com/XunQAQ/OpenAPI'
 						/>
 						<CardItem
 							src='images/user_center.png'
@@ -53,7 +53,7 @@ function Cards() {
 							src='images/SearchEngines.png'
 							text='The Aggregated Search Platform Project is a one-stop search solution based on Vue 3 + Spring Boot + Elastic Stack that simplifies search for both users and enterprises.'
 							label='Aggregated Search Platform'
-							path=''
+							path='https://github.com/XunQAQ/Xsearch'
 						/>
 						<CardItem
 							src='images/website.png'
