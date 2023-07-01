@@ -21,7 +21,7 @@ function Cards() {
 						<CardItem
 							src='images/user_center.png'
 							text='This project is a full-stack management system that combines the power of React for the frontend and Java Spring Boot for the backend. Build with Nginx and Java Springboot'
-							label='User Center'
+							label='User Center Web'
 							path='http://user.watsonpeng.com/user/login'
 						/>
 
